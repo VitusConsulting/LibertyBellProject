@@ -1,4 +1,4 @@
-***Liberty Bell Project***
+#Liberty Bell Project#
 
 The mission of the Liberty Bell Project is to identify and incentivize companies that have implemented policies and practices that advance economic liberty for all communities. Our commitment to this mission is underpinned by a meticulously curated methodology designed to evaluate and score companies based on their performance across critical measures of diversity, equity, and inclusion (DEI).
 
