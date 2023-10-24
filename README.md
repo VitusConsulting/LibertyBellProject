@@ -1,3 +1,5 @@
+*Liberty Bell Project*
+
 The mission of the Liberty Bell Project is to identify and incentivize companies that have implemented policies and practices that advance economic liberty for all communities. Our commitment to this mission is underpinned by a meticulously curated methodology designed to evaluate and score companies based on their performance across critical measures of diversity, equity, and inclusion (DEI).
 
 In our quest to promote economic liberty, we employ a comprehensive data collection approach. This involves sourcing DEI data from a range of channels, including annual reports, ESG reports, and social media platforms like Twitter and LinkedIn. By tapping into this diverse array of data streams, we gain valuable insights into how companies have implemented DEI strategies to foster a more inclusive workplace environment for their employees.
